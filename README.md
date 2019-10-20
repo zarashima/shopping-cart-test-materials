@@ -3,8 +3,9 @@ A list of test materials to keep track of [shopping cart](https://another-nodejs
 # Why
 - To practice testing on a real website which all known testing aspect that I've learn which basic funtionalities are included
 - To apply E2E test
-- To use different automation tools/solutions
-*But the ultimate goal is: To determine readiness of a release, whether we feel confident to release or not*
+- To use different automation tools/solutions.
+
+**But the ultimate goal is to answer the question: Can we release this version?**
 
 # Plan
 Test materials are updated at the end of every week
