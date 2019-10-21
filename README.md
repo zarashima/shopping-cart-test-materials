@@ -5,7 +5,7 @@ A list of test materials to keep track of [shopping cart](https://another-nodejs
 - To apply E2E test
 - To use different automation tools/solutions.
 
-**But the ultimate goal is to answer the question: Can we release this version?**
+**But the ultimate goal is to answer this concern: To determine the status of the current AUT version**
 
 # Plan
 Test materials are updated at the end of every week
