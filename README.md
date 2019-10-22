@@ -1,6 +1,4 @@
-A list of test materials to keep track of [shopping cart](https://another-nodejs-shopping-cart.herokuapp.com/) wesite testing
-
-# Why
+# About
 Test. A simple word with explicit meaning that nobody can't argue with it. However, it's not easy to apply in a practical way in your project/product. You can go through your whole product in a whole day, **test** everything on its and sign off testing is done, that's the theory.
 
 This repository target to contains test materials conducted to test deployed shopping cart website including test repository. No best practices are aimed to include here, just a journey of me conducting tests and:
