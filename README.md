@@ -7,7 +7,8 @@ This repository target to contains test materials conducted to test deployed sho
 - To use different automation tools/solutions.
 **But the ultimate goal is to answer this concern: To determine the status of the current AUT version**
 
-# AUT: https://another-nodejs-shopping-cart.herokuapp.com/
+# AUT: 
+https://another-nodejs-shopping-cart.herokuapp.com/
 Repository is hosted [here](https://github.com/zarashima/nodejs-shopping-cart) in order to integrate test executions on CI/CD process
 
 # Plan
