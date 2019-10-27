@@ -15,8 +15,17 @@ Repository is hosted [here](https://github.com/zarashima/nodejs-shopping-cart) i
 # Plan
 Test materials are updated at the end of every week
 
-# Test Materials
-- Test Plan:![](https://github.com/zarashima/test-materials/blob/master/Shopping%20Cart%20Test%20Plan.png)
-- Test Strategy:
-- Test Tracking:
-- Test Repository: https://github.com/zarashima/shopping-cart-test-repository
+# Test Plan:![](https://github.com/zarashima/test-materials/blob/master/Shopping%20Cart%20Test%20Plan.png)
+
+# Business Scenarios:
+- As an anonymous user, I can sign up on Sign Up page **and** an account will be created for me
+- As an existing user of Shopping Cart, I can sign in on Sign In page sucessfully **and**:
+  - Select an item on the list of available items
+  - Change selected items quantity
+  - Review selected items before purchasing
+  - Purchase selected items
+- As a signed in user of Shopping Cart, I can sign out my existing session
+  
+# Test Strategy:
+# Test Tracking:
+# Test Repository: https://github.com/zarashima/shopping-cart-test-repository
