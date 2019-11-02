@@ -7,15 +7,15 @@ This repository target to contains test materials conducted to test deployed sho
 - To use different automation tools/solutions.
 **But the ultimate goal is to answer this concern: To determine the status of the current AUT version**
 
-# AUT: 
+## AUT: 
 https://another-nodejs-shopping-cart.herokuapp.com/
 
 Repository is hosted [here](https://github.com/zarashima/nodejs-shopping-cart) in order to integrate test executions on CI/CD process
 
-# Plan
+## Roadmap
 Test materials are updated at the end of every week
 
-# Test Plan:![](https://github.com/zarashima/test-materials/blob/master/Shopping%20Cart%20Test%20Plan.png)
+## Test Overview:![](https://github.com/zarashima/test-materials/blob/master/Shopping%20Cart%20Test%20Plan.png)
 
 # Business Scenarios:
 - As an anonymous user, I can sign up on Sign Up page **and** an account will be created for me
@@ -26,6 +26,6 @@ Test materials are updated at the end of every week
   - Purchase selected items
 - As a signed in user of Shopping Cart, I can sign out my existing session
   
-# Test Strategy:
-# Test Tracking:
-# Test Repository: https://github.com/zarashima/shopping-cart-test-repository
+## Test Strategy:
+## Test Tracking:
+## Test Repository: https://github.com/zarashima/shopping-cart-test-repository
