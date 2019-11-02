@@ -26,6 +26,7 @@ Test materials are updated at the end of every week
   - Purchase selected items
 - As a signed in user of Shopping Cart, I can sign out my existing session
   
-## Test Strategy:
+## Test Strategy:![](https://github.com/zarashima/shopping-cart-tests/blob/master/Test%20Project%20Shopping%20Cart.png)
+## Test Plan:
 ## Test Tracking:
 ## Test Repository: https://github.com/zarashima/shopping-cart-test-repository
