@@ -31,5 +31,7 @@ Test materials are updated at the end of every week
 ![](https://github.com/zarashima/shopping-cart-tests/blob/master/Test%20Project%20Shopping%20Cart.png)
 ## Test Plan
 ## Test Tracking
+- Performance Test: https://github.com/zarashima/shopping-cart-performance-tests
+
 ## Test Repository 
 https://github.com/zarashima/shopping-cart-test-repository
